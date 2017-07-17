@@ -1,0 +1,5 @@
+G:\work\Alipay\alipay-sdk-NET-20170615110549\bin\Debug\AopSdk.dll
+G:\work\Alipay\alipay-sdk-NET-20170615110549\bin\Debug\AopSdk.pdb
+G:\work\Alipay\alipay-sdk-NET-20170615110549\obj\Debug\AopSdk.dll
+G:\work\Alipay\alipay-sdk-NET-20170615110549\obj\Debug\AopSdk.pdb
+G:\work\Alipay\alipay-sdk-NET-20170615110549\obj\Debug\AopSdk.csprojResolveAssemblyReference.cache

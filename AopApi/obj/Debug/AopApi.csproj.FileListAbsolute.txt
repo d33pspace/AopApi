@@ -1,0 +1,12 @@
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\bin\AopApi.dll.config
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\bin\AopApi.dll
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\bin\AopApi.pdb
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\obj\Debug\AopApi.csprojResolveAssemblyReference.cache
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\obj\Debug\AopApi.dll
+c:\users\jacky\documents\visual studio 2017\Projects\AopApi\AopApi\obj\Debug\AopApi.pdb
+G:\work\Alipay\AopApi\AopApi\bin\AopApi.dll.config
+G:\work\Alipay\AopApi\AopApi\bin\AopApi.dll
+G:\work\Alipay\AopApi\AopApi\bin\AopApi.pdb
+G:\work\Alipay\AopApi\AopApi\obj\Debug\AopApi.dll
+G:\work\Alipay\AopApi\AopApi\obj\Debug\AopApi.pdb
+G:\work\Alipay\AopApi\AopApi\obj\Debug\AopApi.csprojResolveAssemblyReference.cache
